@@ -2,9 +2,9 @@
 
 So you've found us...
 
-
-
----
+<p align="center">
+  <img alt="Cubusky logo" src="CubuskyLogo_cs_tight.webp" width="200" />
+</p>
 
 Welcome to Cubusky! We are a company primarily focused on tools for C# game development and consultancy. Help yourself to one of our [open-source repositories][repos], or check out the [Cubusky Website][website] for a more stylized overview of our work.
 
